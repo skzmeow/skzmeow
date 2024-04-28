@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stella
 - 🐉 I’m currently learning python
-- 📫 Plese, reach me only in my e-mail: stella.caum@gmail.com
+- 📫 Plese, reach me only on my e-mail: stella.caum@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
