@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stella
-- 🐉 I’m currently learning python
+- 🐉 I’m currently in college studying System Analisys and Development
 - 📫 Plese, reach me only on my e-mail: stella.caum@gmail.com
 - 😄 Pronouns: she/her
 
